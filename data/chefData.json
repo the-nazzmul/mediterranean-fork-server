@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "name": "Yotam Ottolenghi",
+        "experience": "20 years",
+        "num_recipes": 150,
+        "likes": 5000,
+        "picture_url": "https://img.freepik.com/free-photo/smiling-male-baker-standing-front-table-with-different-type-breads_23-2147883510.jpg?w=826&t=st=1683016979~exp=1683017579~hmac=9673612e95d261443065b7db89fb7b396ed2f7ed2409c4689e318cd35ec0bdb0",
+        "bio": "Yotam Ottolenghi is a British-Israeli chef, restaurant owner, and author. He is known for his flavorful and colorful vegetarian dishes, which often draw inspiration from his Middle Eastern background. He has written several bestselling cookbooks, including 'Plenty' and 'Jerusalem'."
+    },
+    {
+        "id": 2,
+        "name": "Claudia Roden",
+        "experience": "50 years",
+        "num_recipes": 100,
+        "likes": 2000,
+        "picture_url": "https://img.freepik.com/free-photo/medium-shot-chef-posing_23-2148723238.jpg?w=826&t=st=1683016370~exp=1683016970~hmac=2e853c6364c942cfafe05b39cf49c971d56f1168001ab11197b6b26b83068bdd",
+        "bio": "Claudia Roden is an Egyptian-born cookbook author and food writer. She is known for her research on Middle Eastern and Mediterranean cuisines, which has resulted in several award-winning books, including 'A Book of Middle Eastern Food' and 'The Food of Spain'."
+    },
+    {
+        "id": 3,
+        "name": "Samuel Clark",
+        "experience": "15 years",
+        "num_recipes": 80,
+        "likes": 3000,
+        "picture_url": "https://img.freepik.com/free-photo/happy-cook-putting-spinach-plate-with-salad_23-2148040247.jpg?w=826&t=st=1683016457~exp=1683017057~hmac=6ff42d8b44180c7a7d34517b29c135edde401a48b01d48ceec1ddc5ae8cc94a8",
+        "bio": "Samuel Clark is a British chef and co-owner of the restaurant Moro in London. He specializes in the food of Spain and North Africa, and has co-authored several cookbooks with his business partner, Samantha Clark."
+    },
+    {
+        "id": 4,
+        "name": "Anada Sortun",
+        "experience": "25 years",
+        "num_recipes": 120,
+        "likes": 4000,
+        "picture_url": "https://img.freepik.com/free-photo/male-chef-s-preparing-food-frying-pan_23-2147863748.jpg?w=826&t=st=1683016457~exp=1683017057~hmac=fa18f2db9d8a06405c77fe219c40dc28fcf744e480cab83f3aeca57495a3cf23",
+        "bio": "Ana Sortun is an American chef and restaurateur. She is known for her contemporary interpretations of Middle Eastern cuisine, and is the owner of the restaurants Oleana and Sofra in Cambridge, Massachusetts. She has authored the cookbook 'Spice: Flavors of the Eastern Mediterranean'."
+    },
+    {
+        "id": 5,
+        "name": "Yashar Amin",
+        "experience": "10 years",
+        "num_recipes": 60,
+        "likes": 1000,
+        "picture_url": "https://img.freepik.com/free-photo/male-cook-looking-wooden-plate-with-salad_23-2148040182.jpg?w=826&t=st=1683016474~exp=1683017074~hmac=6f300b73cdd04bdf6eb4516deaed4371d0557f880e561cfbca29e588c1c6d4a9",
+        "bio": "Yashar Amin is a Turkish chef and food blogger. He is known for his modern take on traditional Turkish cuisine, and has been featured in several publications, including 'Saveur' and 'The Guardian'. He has also authored the cookbook 'The Turkish Cookbook: Regional Recipes and Stories'."
+    },
+    {
+        "id": 6,
+        "name": "Samin Nosrat",
+        "experience": "15 years",
+        "num_recipes": 90,
+        "likes": 2500,
+        "picture_url": "https://img.freepik.com/free-photo/smiling-male-baker-leaning-kitchen-worktop-looking-laptop_23-2147883515.jpg?w=826&t=st=1683016898~exp=1683017498~hmac=4ff6f9082413ea4a9d4c54104cc1cc2d4deac1857e2012f75c1e2102d56795e9",
+        "bio": "Samin Nosrat is an American chef, author, and television host. She is the author of the bestselling cookbook 'Salt, Fat, Acid, Heat', which has been adapted into a Netflix series. She specializes in California cuisine and has worked at several acclaimed restaurants, including Chez Panisse and Tartine Bakery."
+    }
+]
